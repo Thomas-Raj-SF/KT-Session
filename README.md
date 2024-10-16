@@ -1,2 +1,3 @@
 # KT-Session
-# Addedan comment
+# Added an comment
+# Get changes from remote repo
