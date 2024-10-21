@@ -6,6 +6,8 @@ public class AddTest {
         Add addInstance = new Add();
         Integer num1 = 2;
         Integer num2 = 3;
+        Integer num1 = 2;
+        Integer num2 = 3;
         
         // Act
         Integer result = addInstance.addNumbers(num1, num2);
