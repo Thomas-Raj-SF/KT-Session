@@ -11,7 +11,7 @@ public class AddTest {
         Integer num1 = 2;
         Integer num2 = 3;
         // Added an comment
-        
+        //Added an comment 2
         // Act
         Integer result = addInstance.addNumbers(num1, num2);
         
