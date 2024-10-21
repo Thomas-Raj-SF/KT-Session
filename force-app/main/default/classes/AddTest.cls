@@ -7,6 +7,7 @@ public class AddTest {
         Integer num1 = 2;
         Integer num2 = 3;
         Integer num1 = 2;
+        // Added a comment in repo
         Integer num2 = 3;
         Integer num1 = 2;
         Integer num2 = 3;
