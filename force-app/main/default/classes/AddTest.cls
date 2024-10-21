@@ -8,6 +8,7 @@ public class AddTest {
         Integer num2 = 3;
         Integer num1 = 2;
         Integer num2 = 3;
+        // Added an comment
         
         // Act
         Integer result = addInstance.addNumbers(num1, num2);
