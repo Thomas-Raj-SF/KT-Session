@@ -181,11 +181,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>Department__c</tabs>
     <workspaceConfig>
-        <mappings>
-            <tab>Department__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
